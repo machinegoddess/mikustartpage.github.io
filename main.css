@@ -1,0 +1,47 @@
+/*CSS Documentation*/
+body {
+    background-color: #222831;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px auto;
+    max-width: 900px;
+}
+a {
+    border-radius: 2px;
+    color: #EEEEEE;
+    margin: 10px;
+    padding: 3px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #324b4c;
+    transition: all 0.5s;
+}
+#main {
+    background-color: #31363F;
+    box-shadow: 10px 10px;
+    display: flex;
+    height: 285px;
+}
+#content {
+    margin: 10px;
+}
+#title {
+    color: #76ABAE;
+    font-size: 1.5em;
+    margin-bottom;
+}
+th {
+    color: #76ABAE;
+    text-align: left;
+    font-weight: normal;
+    text-decoration:none;
+}
+#waifu {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5px;
+    height: 270px;
+    width: auto;
+}
+/*Shout to oliver-grech, which I took his startpage as an inspiration. Please don't bother,
+its a 100% for personal use!*/
