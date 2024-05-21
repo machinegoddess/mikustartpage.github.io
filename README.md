@@ -1,3 +1,3 @@
-# mikustartpage.github.io
+# mikustartpage
 hatsune miku simple startpage <br>
-https://machinegoddess.github.io/mikustartpage.github.io/
+https://machinegoddess.github.io/mikustartpage
